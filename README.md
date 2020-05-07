@@ -28,4 +28,4 @@ input and generates probabilities of the presence of COVID-19
 or pneumonia and a heatmap highlighting the probable infected
 regions.
 
-Code for twoclass, three class, and patient-wise cross-validation classification is given in the notebooks. 
+Code for two class, three class, and patient-wise cross-validation classification is given in the notebooks. 
