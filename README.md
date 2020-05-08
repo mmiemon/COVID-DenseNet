@@ -29,3 +29,5 @@ or pneumonia and a heatmap highlighting the probable infected
 regions.
 
 Code for two-class classification, three-class classification, and patient-wise cross-validation is given in the notebooks. 
+
+Dataset link: https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md
